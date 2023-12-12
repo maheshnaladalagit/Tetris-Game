@@ -54,7 +54,7 @@ stages:
     pool:
       name: Default
     # environment: 'Ashfaque9xTetrisGame.default'
-    environment:
+    environment: default
     strategy:
       runOnce:
         deploy:
